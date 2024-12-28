@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1017142396221",
+    "firebase_url": "https://nyoba-2e635-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nyoba-2e635",
+    "storage_bucket": "nyoba-2e635.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017142396221:android:61b8abf91159b8e1d47154",
+        "android_client_info": {
+          "package_name": "com.example.uasayam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBTNtq6GwKe3kRfNtTZATbI9OlPF5RJBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
